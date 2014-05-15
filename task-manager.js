@@ -1,7 +1,7 @@
 'use strict';
 
 var cprocess = require('child_process'),
-    log 	 = require('util').log,
+    log      = require('util').log,
     TaskManager;
 
 TaskManager = function () {
