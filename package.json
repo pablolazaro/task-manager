@@ -1,0 +1,24 @@
+{
+  "name": "task-manager",
+  "version": "0.0.0",
+  "description": "task-manager\r ============",
+  "main": "task-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://pablolazaro@github.com/pablolazaro/task-manager.git"
+  },
+  "keywords": [
+    "node",
+    "task",
+    "manager"
+  ],
+  "author": "Pablo Lázaro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablolazaro/task-manager/issues"
+  },
+  "homepage": "https://github.com/pablolazaro/task-manager"
+}
